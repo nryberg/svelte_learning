@@ -1,6 +1,6 @@
 <h1>Hello, {name}!</h1>
 
-<p>My first Svelte app!  This is pretty cool </p>
+<p>My first Svelte app!  This is pretty cool WOW!</p>
 
 <style>
 
